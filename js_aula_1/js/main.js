@@ -9,13 +9,23 @@ function redirecionar(){
     window.location.href = "https://globallab.org/en/#.YBnQ2uhKiUk";
 }
 
-function trocar(){
-    document.getElementById("mousemove").innerHTML = "Obrigado por passar o mouse";
+function trocar(elemento){
+    elemento.innerHTML = "Obrigado por passar o mouse";
+    //document.getElementById("mousemove").innerHTML = "Obrigado por passar o mouse";
     //alert("trocar texto");
 }
 
-function voltar(){
-    document.getElementById("mousemove").innerHTML = "Passe o mouse aqui";
+function voltar(elemento){
+    elemento.innerHTML = "Passe o mouse aqui";
+    //document.getElementById("mousemove").innerHTML = "Passe o mouse aqui";
+}
+
+function load(){
+    alert("página carregada");
+}
+
+function funcaoChange(elemento){
+    console.log(elemento.value);
 }
 /*
 function soma(n1, n2){

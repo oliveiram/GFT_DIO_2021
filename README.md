@@ -15,11 +15,20 @@ Arquivos do bootcamp GFT DIO 2021#1
 [x] Certifique se Conhecimento 1
 
 -Aula 2: tipos, variáveis, operadores, condicionais e repetição em JavaScript ES6
-[] Tipos e variáveis
+[x] Tipos e variáveis
 [] Functions e operadores
 [] Spread, estruturas condicionais e repetição
 [] Certifique seu conhecimento
 
+-Aula 3: Orientação a objetos e Design Patterns com a linguagem ES6
+[] Introdução a orientação a objetos
+[] Introdução a Design Patterns
+[] Certifique seu conhecimento
+
+-Aula 4:Manipulação e iteração de arrays
+[] Criando e manipulando arrays
+[] Iterar, buscar e transformar elementos
+[] Certifique seu conhecimento
 
 -Desenvolvimento avançado com JavaScript ES6
 -- Funções avançadas do ES6

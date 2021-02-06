@@ -8,12 +8,12 @@
 
 ### [x] Curso JavaScript ES6 Essencial 
 #### Aula 1: introdução ao ES6
-| [x] História e Conceitos | [x] Currying, Hoisting, Imutabilidade, Tipos e Variáveis |
+|[x] História e Conceitos |[x] Currying, Hoisting, Imutabilidade, Tipos e Variáveis |
 |-|-|
 | [x] Certifique se Conhecimento |
 
 #### Aula 2: tipos, variáveis, operadores, condicionais e repetição em JavaScript ES6
-| [x] Tipos e variáveis | [x] Functions e operadores | 
+|[x] Tipos e variáveis |[x] Functions e operadores | 
 |-|-|
 | [x] Spread, estruturas condicionais e repetição | [x] Certifique seu conhecimento |
 

@@ -28,6 +28,7 @@
 | [x] Certifique seu conhecimento |
 
 
+<<<<<<< HEAD
 ### [x] Desenvolvimento avançado com JavaScript ES6
 #### Aula 1: Funções avançadas do ES6
 |[x] Funções avançadas do ES6 | [x] Aprenda o que é e como trabalhar com Arrow Functions |
@@ -62,3 +63,39 @@
 |-|-|
 | [x] Debugging parte 1 | [x] Debugging parte 2 | 
 | [x] Certifique seu conhecimento |
+=======
+### [x] Desenvolvimento avançado com JavaScript ES6
+#### Aula 1: Funções avançadas do ES6
+|[x] Funções avançadas do ES6 | [x] Aprenda o que é e como trabalhar com Arrow Functions |
+|-|-|
+| [x] Default Function Arguments | [x] Enhanced Object Literals | 
+| [x] Certifique seu conhecimento |
+
+#### Aula 2: Aplicando conceitos Rest, Spread Operator e Destructuring
+|[x] Conheça Rest e Spread Operator |[x] Como usar Destructuring em ReactJS | 
+|-|-|
+|[x] Certifique seu conhecimento|
+
+
+#### Aula 3: Introdução a Generators
+| [x] Symbols e Iterators | [x] Aprenda sobre Generators e onde utilizá-los |
+|-|-|
+| [x] Certifique seu conhecimento |
+#### Aula 4: Aplicando conceitos Promises e Fetch
+| [x] Introdução da aula | [x] Callbacks e Promises |
+|-|-|
+| [x] Fetch, Async/Await e EventEmitter | [ ] Aplicando e praticando os conceitos |
+| [x] Certifique seu conhecimento |
+
+#### Aula 5: Conceitos aplicados a qualidade de código e automação de testes em JS
+| [x] Introdução e conceitos da aula | [x] Testes, TDD e BDD |
+|-|-|
+| [x] Conheça Mocha, Chai e Sinon | [ ] Veja como trabalhar com Chai - uma excelente biblioteca |
+| [x] Desenvolvendo códigos com Sinon | [x] Certifique seu conhecimento |
+
+#### Aula 6: Tratamentos e exceções
+| [x] Introdução à aula | [x] Como identificar os erros |
+|-|-|
+| [x] Debugging parte 1 | [x] Debugging parte 2 | 
+| [x] Certifique seu conhecimento |
+>>>>>>> 8ee231f87eb8f7e26376adc22e419585ebad44e0

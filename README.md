@@ -1,9 +1,9 @@
 # GFT_DIO_2021 - Arquivos do bootcamp GFT DIO 2021/1
 ### [x] Programação para internet com JavaScript 
 #### Aula 1: 
-[x] Certifique seu Conhecimento
+|[x] Certifique seu Conhecimento|
 ### Aula 2: 
-| [x] Certifique se Conhecimento | [x] Curso Finalizado |
+|[x] Certifique se Conhecimento |[x] Curso Finalizado|
 |-|-|
 
 ### [x] Curso JavaScript ES6 Essencial 
@@ -30,15 +30,15 @@
 
 ### [ ] Desenvolvimento avançado com JavaScript ES6
 #### Aula 1: Funções avançadas do ES6
-|  [ ] Funções avançadas do ES6 | [ ] Aprenda o que é e como trabalhar com Arrow Functions |
+|[ ] Funções avançadas do ES6 | [ ] Aprenda o que é e como trabalhar com Arrow Functions |
 |-|-|
 | [ ] Default Function Arguments | [ ] Enhanced Object Literals | 
 | [ ] Certifique seu conhecimento |
 
 #### Aula 2: Aplicando conceitos Rest, Spread Operator e Destructuring
-| [ ] Conheça Rest e Spread Operator | [ ] Como usar Destructuring em ReactJS | 
+|[ ] Conheça Rest e Spread Operator |[ ] Como usar Destructuring em ReactJS | 
 |-|-|
-| [ ] Certifique seu conhecimento |
+|[ ] Certifique seu conhecimento|
 
 
 #### Aula 3: Introdução a Generators

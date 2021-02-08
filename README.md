@@ -98,4 +98,4 @@
 |-|-|
 | [x] Debugging parte 1 | [x] Debugging parte 2 | 
 | [x] Certifique seu conhecimento |
->>>>>>> 8ee231f87eb8f7e26376adc22e419585ebad44e0
+>>>>>>> modificado readme

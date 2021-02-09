@@ -30,10 +30,10 @@
 
 ### [ ] Desenvolvimento avançado com JavaScript ES6
 #### Aula 1: Funções avançadas do ES6
-|[ ] Funções avançadas do ES6 | [ ] Aprenda o que é e como trabalhar com Arrow Functions |
+|[x] Funções avançadas do ES6 | [x] Aprenda o que é e como trabalhar com Arrow Functions |
 |-|-|
-| [ ] Default Function Arguments | [ ] Enhanced Object Literals | 
-| [ ] Certifique seu conhecimento |
+| [x] Default Function Arguments | [x] Enhanced Object Literals | 
+| [x] Certifique seu conhecimento |
 
 #### Aula 2: Aplicando conceitos Rest, Spread Operator e Destructuring
 |[ ] Conheça Rest e Spread Operator |[ ] Como usar Destructuring em ReactJS | 

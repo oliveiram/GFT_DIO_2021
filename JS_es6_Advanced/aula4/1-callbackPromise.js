@@ -1,17 +1,15 @@
 //Callbakcs e Promises
 
 //Promises
-const doSomethingPromise = () => 
-    new Promise((resolve, reject) =>{
+const doSomethingPromise = () => new Promise((resolve, reject) =>{
    // throw new Error('Simulando erro'); ////
     setTimeout(function(){
         resolve('First data');
     }, 1000);
 } );
 
-const doOtherThingPromise = () => 
-    new Promise((resolve, reject) =>{
-   // throw new Error('Simulando erro'); ////
+const doOtherThingPromise = () => new Promise((resolve, reject) =>{
+    throw new Error('Simulando erro'); ////
     setTimeout(function(){
         resolve('Second data');
     }, 1000);
@@ -21,20 +19,10 @@ const doOtherThingPromise = () =>
 /* doSomethingPromise
 .then(data =>console.log(data))
 .catch(error => console.log(error)); //simulando erro */
-
-/* Promise.all([doSomethingPromise(), doOtherThingPromise()]).then((data) => {
-    console.log(data[0].split(''));
-    console.log(data[1].split(''));
-}).catch( err => {console.log(err)}); */
-
- ///retorna primeiro a que resolver primeiro
-Promise.race([doSomethingPromise(), doOtherThingPromise()]).then((data) => {
-    console.log(data);
-}).catch( err => {console.log(err)});
-/* doSomethingPromise()
-.then(data => {console.log(data.split('')); return doOtherThingPromise()})
-.then(data2 => console.log(data2.split('')))
-.catch(error => console.log('Ops', error)); */
+doSomethingPromise()
+.then(data => {console.log(data); return doOtherThingPromise()})
+.then(data2 => console.log(data2))
+.catch(error => console.log('Ops', error));
 
 
 

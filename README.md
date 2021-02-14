@@ -36,26 +36,26 @@
 | [x] Certifique seu conhecimento |
 
 #### Aula 2: Aplicando conceitos Rest, Spread Operator e Destructuring
-|[ ] Conheça Rest e Spread Operator |[ ] Como usar Destructuring em ReactJS | 
+|[x] Conheça Rest e Spread Operator |[x] Como usar Destructuring em ReactJS | 
 |-|-|
-|[ ] Certifique seu conhecimento|
+|[x] Certifique seu conhecimento|
 
 
 #### Aula 3: Introdução a Generators
-| [ ] Symbols e Iterators | [ ] Aprenda sobre Generators e onde utilizá-los |
+| [x] Symbols e Iterators | [x] Aprenda sobre Generators e onde utilizá-los |
 |-|-|
-| [ ] Certifique seu conhecimento |
+| [x] Certifique seu conhecimento |
 #### Aula 4: Aplicando conceitos Promises e Fetch
-| [ ] Introdução da aula | [ ] Callbacks e Promises |
+| [x] Introdução da aula | [x] Callbacks e Promises |
 |-|-|
-| [ ] Fetch, Async/Await e EventEmitter | [ ] Aplicando e praticando os conceitos |
-| [ ] Certifique seu conhecimento |
+| [x] Fetch, Async/Await e EventEmitter | [x] Aplicando e praticando os conceitos |
+| [x] Certifique seu conhecimento |
 
 #### Aula 5: Conceitos aplicados a qualidade de código e automação de testes em JS
-| [ ] Introdução e conceitos da aula | [ ] Testes, TDD e BDD |
+| [x] Introdução e conceitos da aula | [x] Testes, TDD e BDD |
 |-|-|
-| [ ] Conheça Mocha, Chai e Sinon | [ ] Veja como trabalhar com Chai - uma excelente biblioteca |
-| [ ] Desenvolvendo códigos com Sinon | [ ] Certifique seu conhecimento |
+| [x] Conheça Mocha, Chai e Sinon | [x] Veja como trabalhar com Chai - uma excelente biblioteca |
+| [x] Desenvolvendo códigos com Sinon | [x] Certifique seu conhecimento |
 
 #### Aula 6: Tratamentos e exceções
 | [ ] Introdução à aula | [ ] Como identificar os erros |

@@ -2,7 +2,7 @@
   "name": "aula5",
   "version": "1.0.0",
   "description": "",
-  "main": "math.spec.js",
+  "main": "2-MochaChaiSinon.js",
   "scripts": {
     "test": "mocha"
   },
@@ -10,8 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chai": "^4.3.0",
-    "mocha": "^8.3.0",
-    "sinon": "^9.2.4"
+    "mocha": "^8.3.0"
   }
 }

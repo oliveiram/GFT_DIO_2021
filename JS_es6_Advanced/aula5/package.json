@@ -1,0 +1,15 @@
+{
+  "name": "aula5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2-MochaChaiSinon.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.3.0"
+  }
+}

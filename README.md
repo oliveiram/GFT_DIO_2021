@@ -28,7 +28,7 @@
 | [x] Certifique seu conhecimento |
 
 
-### [ ] Desenvolvimento avançado com JavaScript ES6
+### [x] Desenvolvimento avançado com JavaScript ES6
 #### Aula 1: Funções avançadas do ES6
 |[x] Funções avançadas do ES6 | [x] Aprenda o que é e como trabalhar com Arrow Functions |
 |-|-|
@@ -58,7 +58,7 @@
 | [x] Desenvolvendo códigos com Sinon | [x] Certifique seu conhecimento |
 
 #### Aula 6: Tratamentos e exceções
-| [ ] Introdução à aula | [ ] Como identificar os erros |
+| [x] Introdução à aula | [x] Como identificar os erros |
 |-|-|
-| [ ] Debugging parte 1 | [ ] Debugging parte 2 | 
-| [ ] Certifique seu conhecimento |
+| [x] Debugging parte 1 | [x] Debugging parte 2 | 
+| [x] Certifique seu conhecimento |
